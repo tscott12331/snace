@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "stdbool.h": "c",
+        "ncurses.h": "c",
+        "panel.h": "c",
+        "unistd.h": "c",
+        "stdlib.h": "c"
+    }
+}
